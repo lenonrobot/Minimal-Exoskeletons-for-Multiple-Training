@@ -1,4 +1,4 @@
-# Minimal-Exoskeletons-for-Multiple-Training
+# Minimal Exoskeletonsfor Multiple Training
 
 Our project MiniExo4U aims at providing a customized and multifunctional exoskeleton solution to the wearable robotics industry.
 This project will be promoted by open-sourcing its results to wearable robotics community. 
